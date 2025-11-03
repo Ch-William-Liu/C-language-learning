@@ -1,4 +1,5 @@
-﻿.\tempCodeRunnerFile.c
-.\*.exe
-.\*.txt
-.\.vscode
+﻿tempCodeRunnerFile.c
+*.exe
+*.txt
+./.vscode
+
